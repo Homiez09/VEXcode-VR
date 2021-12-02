@@ -1,2 +1,4 @@
 START --> A --> B --> C --> D
-- Drag and drop in https://vr.vex.com
+- Download code
+- Go to https://vr.vex.com
+- File --> Load From Your Device --> Choose .vrpython file 
